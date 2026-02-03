@@ -1,0 +1,266 @@
+﻿Name,Attunement,Continent,Inventory,Kingdom,Last Edited,Level,Occupation,Organization Membership,Tags,Town
+Biamér,,,,,"March 5, 2025 4:22 PM",,The Eastern Sub-Continent and home of the tri-archy,,Landmass,
+,,,,,"November 17, 2022 3:11 PM",,,,,
+Artok,,Biamer,,,"March 10, 2025 9:46 PM",,,,Kingdom,
+Salindash,,Biamer,,,"March 10, 2025 9:46 PM",,,,Kingdom,
+Ashtengil,,Biamer,,,"March 10, 2025 9:46 PM",,,,Kingdom,
+Queen Wednesday Thomas,,Biamer,,Artok,"March 10, 2025 9:47 PM",,Queen of Artok,,"NPC, Ruler",Kryn
+Kryn,,,,,"November 23, 2022 6:47 AM",,"Artok, Capital City. Upper and Lower Kryn",,"Artok, Town",
+Fistall,,,,,"November 23, 2022 6:46 AM",,Small mining/farming village in Artok in hills,,"Artok, Town",
+Dryad Grove,,,,,"November 19, 2022 2:01 AM",,,,,
+Garibeth,,,,,"November 23, 2022 6:47 AM",,"Artok, town west of hills. Occupied by Orcs",,"Artok, Town",
+Calin,,,,,"November 23, 2022 6:46 AM",,"Artok, border city, now refugee tent city",,"Artok, Town",
+Gobfather,,,,,"January 21, 2026 7:38 PM",,,,"Artok, Calin, NPC",Calin
+Nordalk,,,,,"November 23, 2022 6:46 AM",,"Artok, northern city engaged in trade",,"Artok, Town",
+Benthal,,,,,"November 23, 2022 6:48 AM",,"Artok, town on Lake Eriba",,"Artok, Town",
+Fessil'gur,,,,,"December 13, 2023 10:06 AM",,"Artok, Dwarven settlement in Iron Ridge",,"Artok, Town",
+Sil Tarrin,,,,,"November 23, 2022 6:50 AM",,"Artok, former elvish stronghold. Ritual site.",,"Artok, Teleportation Circle, Town",
+Lake Eriba,,,,,"November 23, 2022 6:45 AM",,"Former lake, now dried up, Artok",,"Artok, Town",
+Klugtorn,,,,,"May 22, 2023 4:41 PM",,Nomadic orc tribe in Artok,,"Artok, Kingdom",
+Bellamy,,Biamer,,Artok,"March 10, 2025 9:48 PM",,Royal local leaders of Nordalk,,NPC,Nordalk
+Tannis Cowlry,,Biamer,,Artok,"March 10, 2025 10:07 PM",,Human ranger and hunter,,NPC,Nordalk
+Sakh Tybri,,Biamer,,"Artok, Salindash","March 10, 2025 10:03 PM",,Elvish “Holy Man” turned cult leader,,"NPC, Villain","Baker's Ridge, Nordalk"
+Rusty Fork,,,,,"March 8, 2023 7:10 AM",,,,Location,Calin
+Saygin Kraxx,,,,,"March 8, 2023 6:24 AM",,Kobold Bard,Desh Harbor Bard,"Artok, Calin, NPC","Calin, Port Stillwater"
+Port Stillwater,,,,,"December 12, 2022 1:10 AM",,"Popular dock/resort city, always calm waters",,"Salindash, Town",
+Bethany Towsin,,,,,"March 8, 2023 7:15 AM",,"Mayor of Port Stillwater, Human Female",,NPC,Port Stillwater
+Cassius Holton,,,,,"May 3, 2023 7:39 AM",,"Hallowed Hopper, Captain, Half-Elf Male",Alabaster Pearl,NPC,Port Stillwater
+Eyepatch of Suggestion,,,,,"March 8, 2023 7:16 AM",,,,Item,
+Audry Underbough,,,,,"May 3, 2023 7:45 AM",,"Cassius’s First Mate, Female Half-Elf",Alabaster Pearl,NPC,Port Stillwater
+Alabaster Pearl,,,,,"March 8, 2023 7:10 AM",,"Apartments/Hotel, Veridian Coast district, Sedrik Wyrthers",,Location,Port Stillwater
+Sil Durun,,Biamer,,Salindash,"March 22, 2025 7:18 AM",,Former stronghold of Durun tribe,,"Dungeon/Encounter, Teleportation Circle, Unused",Port Stillwater
+Carin Tal,,Biamer,,Salindash,"March 10, 2025 9:50 PM",,Ruins of Durun watchtower,,Dungeon/Encounter,Port Stillwater
+Magic Hat,Attuned,,Felix,,"July 20, 2025 9:38 AM",,,,"Item, Salindash",Carin Tal
+Karratak Bal’un,,Biamer,,Salindash,"March 27, 2025 10:12 PM",,"Tomb of Karra, warrior from Sil Durun",,Dungeon/Encounter,Port Stillwater
+Jim Lutman,,,,,"March 8, 2023 7:15 AM",,"Dock Master, Human Male",,NPC,Port Stillwater
+Finellen Runehammer,,,,,"August 11, 2025 2:27 PM",,"Constable, Dwarf, Female",Reeves,NPC,Port Stillwater
+Atticus Whitful,,,,,"March 8, 2023 7:16 AM",,"Dock Master’s Assistant, Halfling",,NPC,Port Stillwater
+Ma’rey Twofoot,,,,,"March 8, 2023 7:16 AM",,"Pick-pocket, Halfling Female",,NPC,Port Stillwater
+Krista Tinelly,,,,,"March 8, 2023 7:16 AM",,"Sailor’s Knot, Owner, Human Female",,NPC,Port Stillwater
+Sailor’s Knot,,,,,"March 8, 2023 7:09 AM",,"Tavern, Stillwater, Krista Tinelly",,Location,Port Stillwater
+Keeping Up A-Pier-ences,,,,,"March 8, 2023 7:09 AM",,"General Store, Stillwater, Harold Bernall",,Location,Port Stillwater
+Harold Bernall,,,,,"March 8, 2023 7:13 AM",,"Keeping Up A-Pier-ences, Owner, Male Human",,NPC,Port Stillwater
+Gerbo’s Goods,,,,,"March 8, 2023 7:09 AM",,"Store (Magic), Veridian Shore District. Gerbo Turen",,Location,Port Stillwater
+Gerbo Turen,,,,,"March 8, 2023 7:13 AM",,"Gerbo’s Goods, owner Gnome, male",,NPC,Port Stillwater
+Sedrik Wyrthers,,,,,"March 8, 2023 7:14 AM",,"Alabaster Pearl, Receptionist, Half-Elf, Male",Alabaster Pearl,NPC,Port Stillwater
+Narah Hughlit,,,,,"March 8, 2023 7:12 AM",,"Archives, Head Archivist, Female Halfling",Order of Erudition,NPC,Port Stillwater
+Port Stillwater Archives,,,,,"March 8, 2023 7:09 AM",,"Archives, Stillwater District, Narah Hughlit",,Location,Port Stillwater
+Warehouses,,,,,"March 8, 2023 7:09 AM",,"Warehouse in Docks district, Atticus Whitful",,Location,Port Stillwater
+Stalworth Steelbarrow,,,,,"May 3, 2023 8:14 AM",,"Steel Pier, Owner, Dwarf Male",Long Death,NPC,Port Stillwater
+Steel Pier,,,,,"May 3, 2023 8:15 AM",,"Tavern and Inn in Docks district, Stalworth Steelbarrow",Long Death,Location,Port Stillwater
+Giant Slayer,,,Morgan,,"July 5, 2025 7:35 AM",,Magic Weapon,,"Item, Salindash",Karratak Bal'un
+Order of Erudition,,Biamer,,,"March 10, 2025 9:47 PM",,State faction of knowledge - archivists and scribes,,Organizations,
+New Corinth,,,,,"January 19, 2025 7:36 AM",,Primary port in/out of Salindash and Biamer,,"Salindash, Town",
+Shadow Pact,,Biamer,,,"March 10, 2025 9:47 PM",,Gov’t “intelligence” organization,,Organizations,
+Brandy Isles,,,,,"June 12, 2023 11:14 AM",,"Archipelago to the East of Biamer, where Zhara is located",,"Kingdom, Landmass",
+Meads Run,,,,,"June 30, 2023 8:22 AM",,Home to Burrow Brew and Kirndock Mead,,"Salindash, Town",
+Santry Dur'neth,,Biamer,,Salindash,"March 10, 2025 9:48 PM",,"Port Master, Dwarf, Male",,NPC,Meadsrun
+Calwood,,,,,"July 9, 2023 4:06 PM",,"Owners of “Bee’s Knees” Inn, Human",,NPC,Meadsrun
+Bee’s Knees,,,,,"March 8, 2023 7:08 AM",,Inn + Bakery (Honey Pops!),,Location,Meadsrun
+Kirndock,,Biamer,,Salindash,"March 10, 2025 10:03 PM",,"Kirndock Mead, Gnomes",,NPC,Meadsrun
+Burrow,,,,,"July 5, 2023 11:06 AM",,"Burrow Brew, Halfling Family, Irish Accent?",,NPC,Meadsrun
+Peren Amakiir,,,,,"March 8, 2023 7:12 AM",,"Farmer/Orchardist, Elf Male",,NPC,Port Stillwater
+Vantill,,,,,"June 12, 2023 11:13 AM",,Continent expanding west of Biamer through the mountains,,Landmass,
+Tannis Gorbun,,,,,"March 8, 2023 7:14 AM",,"Hermit, gambles at Steel Pier, Half-Orce",,NPC,Port Stillwater
+Grimmace Carfora,,,,,"March 8, 2023 7:13 AM",,"Human, Map Maker, “Cartography & Me”",,NPC,Port Stillwater
+Cartography & Me,,,,,"March 8, 2023 7:08 AM",,"Cartographer’s, Grimmace Carfora",,Location,Port Stillwater
+Tabberforth,,,,,"December 9, 2022 1:51 PM",,Lumber Camp in western Salin Wood,,"Salindash, Town",
+Janice Tabber,,Biamer,,Salindash,"March 10, 2025 9:51 PM",,"Runs Tabber’s Lumber, Human Female",,NPC,Tabberforth
+Tabber's Lumber,,Biamer,,Salindash,"March 10, 2025 9:51 PM",,"Sawmill and Lumber Yard, Janice Tabber",,Location,Tabberforth
+Horn of Silent Alarm,Not required,,Bag of Holding,,"July 5, 2025 8:50 PM",,,,Item,Carin Tal
+"Figure of Wondrous Power, Raven",Not required,,Flint,,"July 5, 2025 7:54 PM",,,,Item,Carin Tal
+Bevyn Cochlin,,Biamer,,Salindash,"July 5, 2025 7:56 PM",,"Human Bard, Turned into Hat",,NPC,Port Stillwater
+Dock Station,,,,,"March 8, 2023 7:10 AM",,Jim Lutman + Atticus Whitful,,Location,Port Stillwater
+Adrex Baharoosh,,,,,"March 8, 2023 7:14 AM",,"Dragonborn Male, Gold, Cassius’s neighbor",Alabaster Pearl,NPC,Port Stillwater
+Inbar Fellash,,,,,"May 3, 2023 7:35 AM",,"Human Female, 82 years old",Alabaster Pearl,NPC,Port Stillwater
+King Roland Maddon,,,,,"March 8, 2023 6:32 AM",,King of Salindash,,"NPC, Ruler",Lanmoore
+Old Tommy,,,,,"January 30, 2023 8:42 AM",,Popular song,,Misc,
+Tir’gal,,,,,"March 8, 2025 12:38 PM",,"Southern Sub-Continent, south of Biam’mer; Draconia",,Landmass,
+Garrenbek,,Vantill,,,"August 23, 2025 7:17 AM",,Orc Tribe in Vantill,,Kingdom,
+Geyser/Sahuagin Cave,,,,,"May 25, 2024 2:15 AM",,"Several miles west of city near coast, only at high tide",,"Dungeon/Encounter, Location",Port Stillwater
+Fergen Toussain,,Biamer,,Salindash,"March 10, 2025 9:49 PM",,"Archmage, Eyes of Erudition, Male human, French accent",Order of Erudition,NPC,New Corinth
+Sahuagin Tribe (Quel’lar),,,,,"June 18, 2023 10:47 AM",,,,Villain,Port Stillwater
+Unbreakable Arrow,Not required,,Dierro,,"February 1, 2026 12:34 PM",,,,Item,Carin Tal
+Antoine Threevigor,,Biamer,,Salindash,"March 10, 2025 10:06 PM",,"Guard, Human Male, Erudition (’strongbad’), former smuggler","Order of Erudition, Smugglers",NPC,"New Corinth, Port Stillwater"
+Blessing of Fei’tua,Not required,,Flint,,"July 5, 2025 7:54 PM",,,,Item,Karratak Bal'un
+Bracers of Grounding,Attuned,Biamer,Tavion,Salindash,"July 20, 2025 9:37 AM",,,,Item,Karratak Bal'un
+Necklace of Adaptation,Attuned,,Flint,,"July 20, 2025 9:37 AM",,,,Item,Geyser
+Javelin of Lightning,Not required,,Tavion,,"July 5, 2025 8:05 PM",,,,Item,Geyser
+Trident of Qual’al,"Not attuned, Not required",Biamer,Bag of Holding,Salindash,"February 1, 2026 12:33 PM",,,,Item,"Geyser, Port Stillwater"
+Necklace of Prayer Beads,,,Morgan,,"July 5, 2025 7:34 AM",,,,Item,Geyser
+Storm Elemental Shard,,,,,"May 3, 2023 10:05 AM",,,,Item,Geyser
+Shard of So’car,,,Bag of Holding,,"July 6, 2025 9:34 AM",,,,Item,Geyser
+Bendoo Wan,,,,,"May 22, 2023 12:37 PM",,"Half-Orc Female, Apprentice Cleric",Order of Erudition,NPC,New Corinth
+Sue Sum,,,,,"May 22, 2023 12:37 PM",,"Human Female, Apprentice Mage",Order of Erudition,NPC,New Corinth
+Luth Stormwind,,,,,"May 22, 2023 12:38 PM",,"Human Female, Archer/Rogue, Guard",Order of Erudition,NPC,New Corinth
+Lyle Kettlewhistle,,,,,"May 22, 2023 12:38 PM",,"Halfling Male, Census Taker",Order of Erudition,NPC,New Corinth
+Calrin Pilwicken,,,,,"May 22, 2023 12:38 PM",,"Gnome Female, Archivist",Order of Erudition,NPC,New Corinth
+Frouse Pilwicken,,,,,"May 22, 2023 12:37 PM",,"Gnome Male, Mage, Aged + Angry",Order of Erudition,NPC,New Corinth
+Havara,,Brandy Isles,,Brandy Isles,"March 10, 2025 9:53 PM",,"Capital city of Brandy Isles, single Island",,Town,
+Aryna,,,,,"July 9, 2023 3:56 PM",,,,Villain,"Arenfeld, Ker Forrah"
+Ambersil,,,,,"October 1, 2023 8:35 AM",,Small mining town near old Dwarven mines (dead elves)\,,"Salindash, Town",
+Jest Ballow,,,,,"July 9, 2023 4:07 PM",,"Elderly Gnome, Priest to Átha",,NPC,Meadsrun
+Thri-Kreen Caverns,,,,,"May 25, 2024 2:15 AM",,Current home of Thri-Kreen undergroup,,Dungeon/Encounter,Meadsrun
+I’ssa Taranil,,,,,"May 25, 2024 2:15 AM",,"Abandoned city of Illithid, connected to Thri-Kreen hive",,Dungeon/Encounter,Meadsrun
+Marius Amberfist,,,,,"July 31, 2023 4:34 PM",,"De-facto leader, Dwarf Male",Long Death,NPC,Ambersil
+Baron Stone,,,,,"July 31, 2023 4:49 PM",,"Brick and Mortar General Goods, Dwarf Male",,NPC,Ambersil
+Cosette Walker,,Biamer,,Salindash,"March 10, 2025 10:02 PM",,"Cosette’s Corsets and More, Human Female",,NPC,Ambersil
+Bitsy Callous,,,,,"July 31, 2023 4:48 PM",,"Jewler, Bits’ This and That (some magic), Dwarf Female",,NPC,Ambersil
+Montgomery Cristobol,,Biamer,,Salindash,"August 11, 2025 2:26 PM",,"Sgt. in Reeves, Human Male",Reeves,NPC,Ambersil
+Hermes Maynard,,Biamer,,Salindash,"March 10, 2025 10:07 PM",,"Alcolyte in Erudition, Human Male",Order of Erudition,NPC,Ambersil
+Rusty Bellows,,,,,"July 31, 2023 4:23 PM",,"Blacksmith, Dwarf Male",,NPC,Ambersil
+Basál Amberfist,,,,,"August 29, 2023 1:37 PM",,"Priest of Brionnú, Dwarf Female",,NPC,Ambersil
+Twin Picks,,,,,"August 9, 2023 10:45 AM",,"Tavern, Kharmek Ashbuckle",,Location,Ambersil
+Canary Cage,,,,,"November 5, 2023 12:53 PM",,"Brothel, run by Cosette. ",,Location,Ambersil
+Reeve Barracks,,,,,"August 9, 2023 10:35 AM",,Run by Monty Cristobol,,Location,Ambersil
+Guild Hall,,,,,"October 15, 2023 10:28 AM",,,,Location,Ambersil
+Amber Square,,,,,"August 27, 2023 1:17 PM",,,,Location,Ambersil
+Chapel of the First,,,,,"October 14, 2023 12:31 PM",,,,Location,Ambersil
+Order of Erudition (Ambersil),,,,,"October 18, 2023 1:31 PM",,,,Location,Ambersil
+Amber Eye,Not required,,Bag of Holding,,"July 5, 2025 8:50 PM",,,,Item,Ambersil
+Amber Square Mine,,,,,"May 25, 2024 2:15 AM",,Mine under the main square in Ambersil,,Dungeon/Encounter,Ambersil
+Cloak of Warding,,,,,"October 24, 2023 1:57 PM",,,,Item,
+Old Ambersil - Forge Level,,,,,"February 7, 2024 10:57 AM",,,,Location,Ambersil
+Earring of beguiling,Attuned,,Dierro,,"July 20, 2025 9:40 AM",,,,Item,
+Cloak of the Commandeer,Not required,,Tavion,,"July 5, 2025 8:03 PM",,,,Item,Ambersil
+Exploding Ammunition,Consumable,,Dierro,,"July 5, 2025 8:10 PM",,,,Item,Baker's Ridge
+Bow String of Eagle Shot,Not required,,Dierro,,"July 5, 2025 8:08 PM",,,,Item,Ambersil
+Boots of the Mist Walker,Not required,,Flint,,"July 5, 2025 8:13 PM",,,,Item,
+Forge Master’s Ring,Not attuned,,Bag of Holding,,"July 5, 2025 8:50 PM",,,,Item,Ambersil
+Stonearm’s House - Forge Level,,,,,"December 12, 2023 3:04 PM",,,,Location,Ambersil
+Forge - Old Ambersil,,,,,"May 25, 2024 2:15 AM",,"The original Forge, now acting as a gateway to the Plane of Fire",,Dungeon/Encounter,Ambersil
+Prison - Old Ambersil,,,,,"December 5, 2023 4:29 PM",,,,Location,Ambersil
+Hammer of Brionnu,Attuned,,Flint,,"July 5, 2025 8:15 PM",,,,Item,Ambersil
+Old Ambersil - Main Level,,,,,"February 18, 2024 3:11 PM",,,,Location,Ambersil
+Baker’s Ridge,,,,,"March 4, 2024 3:06 PM",,Training camp for Reeves + Ruins of Sil Taltuk,,"Salindash, Town",
+Cur Irongrip,,Biamer,,Salindash,"August 11, 2025 2:23 PM",,"Sgt. in Reeves, Half-Orc Male",Reeves,NPC,Baker's Ridge
+Tamara Maytail,,Biamer,,Salindash,"August 11, 2025 2:27 PM",,Tiefling Female,Smugglers,NPC,"Baker's Ridge, New Corinth"
+April Favour,,Biamer,,Salindash,"March 10, 2025 10:02 PM",,"Human female, cook at canteen in Camp",Reeves,NPC,Baker's Ridge
+Colnel’s Herbs and Spices,,,,,"March 4, 2024 2:09 PM",,,,Item,
+Baker’s Ridge - Hamlet,,,,,"March 26, 2024 5:48 PM",,"Small town outside Sil Taltuk, home to Reeves and Locals",,Location,Baker's Ridge
+Jung Losstongue,,Biamer,,Salindash,"March 10, 2025 10:02 PM",,"Human, male Interrogator. 38 years old. ","Reeves, Shadow Pact",NPC,Baker's Ridge
+"King ? ",,,,,"March 4, 2024 2:50 PM",,,,Villain,
+Cur’s Home - Baker’s Ridge - Hamlet,,,,,"April 3, 2024 11:41 AM",,,,Location,Baker's Ridge
+Ruins of Sil’Taltuk,,,,,"January 20, 2025 10:08 PM",,"Ruins of former Taltuk elves, “restored” from Shadowfell",,"Dungeon/Encounter, Location",Baker's Ridge
+Jung’s Home,,,,,"April 3, 2024 11:55 AM",,"Home of Interrogator, Jung Losstongue (Jung%20Losstongue%2025bd1cb8938c41ada220411b72a5204d.md) ",,Location,Baker's Ridge
+Arrows of Impalement,Consumable,,Dierro,,"July 5, 2025 8:10 PM",,,,Item,Ambersil
+Walloping Ammunition,Not required,,Flint,,"July 5, 2025 7:54 PM",,,,Item,Baker's Ridge
+Bow of Shadow Touch,Attuned,Biamer,Dierro,Salindash,"February 1, 2026 12:34 PM",,,,Item,Baker's Ridge
+Arcane Academy,,Biamer,,Ashtengil,"March 23, 2025 11:53 AM",,,,"Location, Teleportation Circle",Fellsmouth
+Fellsmouth,,Biamer,,Ashtengil,"March 10, 2025 9:53 PM",,Capital of Ashtengil and Triarchy,,Town,
+Fatima Darwin,,Biamer,,Ashtengil,"March 10, 2025 9:57 PM",,"Professor of Enchanting, Half-elf female",Arcane Academy,NPC,Fellsmouth
+Gordash Brittles,,Biamer,,Ashtengil,"August 23, 2025 7:38 AM",,Professor of Transmutation,,"NPC, Villain",Fellsmouth
+Celia Redmoon,,Biamer,,Ashtengil,"August 23, 2025 7:19 AM",,"Professor of Evocation. F, Gnome, 140.",Arcane Academy,NPC,Fellsmouth
+Pointed Hat,,Biamer,,Ashtengil,"March 10, 2025 9:55 PM",,"Tavern, near Arcane Academy",,Location,Fellsmouth
+Portia Rainleaf,,Biamer,,Ashtengil,"March 10, 2025 9:56 PM",,Owner of Pointed Hat,,NPC,Fellsmouth
+Starklin Slywit,,Biamer,,Ashtengil,"March 10, 2025 9:57 PM",,"Portia’s Nephew, 23 Halfling Male",,NPC,Fellsmouth
+Fellsmouth Sewers,,Biamer,,Ashtengil,"March 10, 2025 9:58 PM",,"Sewer system under Fellsmouth, home of Wererats",,Dungeon/Encounter,Fellsmouth
+Wererat Base,,Biamer,,Ashtengil,"May 18, 2025 8:49 PM",,House of Gordash. Dungeon?,,Location,Fellsmouth
+Carp Faragil,,Biamer,,Ashtengil,"March 10, 2025 9:57 PM",,"Professor of Illusions, Dragonborn, Male",,NPC,Fellsmouth
+Sardanya Falloway,,Biamer,,Ashtengil,"August 23, 2025 7:18 AM",,"Alchemist at Arcane Academy, Human F, late 20s",,NPC,Fellsmouth
+Matéu Silveraxe,,Biamer,,Ashtengil,"August 11, 2025 2:29 PM",,"Divination at Arcane Academy, Dwarf, M 180",,NPC,Fellsmouth
+Barnaby Hessian,,Biamer,,Ashtengil,"March 10, 2025 9:55 PM",,"Illusions adjunct, half-orc, early 40s",Arcane Academy,NPC,Fellsmouth
+Spurs,,Biamer,,Ashtengil,"August 11, 2025 2:25 PM",,48 m Head of Giddyup Trust,Giddyup Trust,NPC,Fellsmouth
+Forgotten Borough - Giddyup Trust,,Biamer,,Ashtengil,"May 11, 2025 8:21 AM",,Thieving Organization (mob),,Location,Fellsmouth
+Fellsmouth Chase,,Biamer,,Ashtengil,"March 10, 2025 9:58 PM",,Chase through city from Alleyway/Market to Theives District,,"Dungeon/Encounter, Unused",Fellsmouth
+Giddyup Lair Hideout,,Biamer,,Ashtengil,"May 11, 2025 7:53 AM",,Cavern in the woods taken over by goblins and a Hydra,,Dungeon/Encounter,Fellsmouth
+Ariadne,,Biamer,,Ashtengil,"March 10, 2025 9:56 PM",,,Warriors of Light,NPC,Fellsmouth
+Chapel of the Dawn,,Biamer,,Ashtengil,"March 10, 2025 9:55 PM",,"Fessilgur, Temple run by Brother Draco",,Location,Fellsmouth
+Brother Draco,,Biamer,,Ashtengil,"August 11, 2025 2:27 PM",,,,NPC,Fellsmouth
+Dragontooth Dagger,,,,,"October 25, 2024 8:40 PM",,,Giddyup Trust,Item,Fellsmouth
+Blinkback Belt,,,,,"October 25, 2024 8:41 PM",,,Giddyup Trust,Item,
+Desecrated Grove,,Biamer,,Ashtengil,"March 10, 2025 9:58 PM",,Path to the Shield of Ancestors is blocked by a dark curse,,Dungeon/Encounter,Fellsmouth
+Cornerstone Tomb,,Biamer,,Ashtengil,"March 10, 2025 9:57 PM",,,,Dungeon/Encounter,Fellsmouth
+Balthazar Kharn,,,,,"December 15, 2024 12:44 PM",,"Male human, mid-50s, head of Shadow Pact","Giddyup Trust, Shadow Pact, Smugglers",Villain,Fellsmouth
+Carp’s Notebook,Not required,,Felix,,"July 5, 2025 7:58 PM",,,,Item,Fellsmouth
+Carp’s House (Puzzle),,Biamer,,Ashtengil,"March 10, 2025 9:58 PM",,,,Dungeon/Encounter,Fellsmouth
+Gordash’s House,,Biamer,,Ashtengil,"July 14, 2025 8:50 AM",,,,"Dungeon/Encounter, Unused",Fellsmouth
+Umbral Spire,,Biamer,,Ashtengil,"March 10, 2025 9:55 PM",,,Shadow Pact,Location,Fellsmouth
+Alchemical Lab - Defense,,Biamer,,Ashtengil,"March 10, 2025 9:57 PM",,,,Dungeon/Encounter,Fellsmouth
+Shadow Pact Seal,,,,,"December 15, 2024 8:58 AM",,,,Item,Fellsmouth
+Academy Chase,,Biamer,,Ashtengil,"March 10, 2025 9:58 PM",,,Arcane Academy,Dungeon/Encounter,Fellsmouth
+Turning Tide,,,,,"January 19, 2025 12:42 PM",,,,Location,New Corinth
+Ball,,Biamer,,Ashtengil,"December 1, 2025 10:14 PM",,Ball at castle,,Dungeon/Encounter,Fellsmouth
+,,,,,"January 20, 2025 6:28 PM",,,,Teleportation Circle,
+Order of Erudition HQ,,,,,"January 20, 2025 7:01 PM",,,Order of Erudition,"Location, Teleportation Circle",New Corinth
+Vladimir,,,,,"January 20, 2026 5:59 PM",,,,Villain,
+Vivian Taproot,,Biamer,,Ashtengil,"August 23, 2025 7:18 AM",,"Halfling woman, late 30s; council member","Council, Giddyup Trust",NPC,Fellsmouth
+Gilkis Daravax,,Biamer,,Ashtengil,"August 23, 2025 7:18 AM",,"Bronze dragonborn, female 40s, Ambassador to Draconia",,NPC,Fellsmouth
+Divani,,,,,"March 5, 2025 4:20 PM",,,,Organizations,
+Ayla Tülin,,Tir’gal,,Kuztash,"March 10, 2025 10:25 PM",,,Divani,NPC,Nightstone Harbor
+Nightstone Harbor,,Tir’gal,,Kuztash,"March 12, 2025 4:57 PM",,Port town in Kuztash,,Town,
+Speaker Taşan,,Tir’gal,,Kuztash,"March 10, 2025 10:01 PM",,,,NPC,Nightstone Harbor
+Çay-Hana #1,,Tir’gal,,Kuztash,"March 10, 2025 10:08 PM",,,,Location,Nightstone Harbor
+Hatun Yılmira,,Tir’gal,,Kuztash,"March 10, 2025 10:01 PM",,,,NPC,Nightstone Harbor
+Maniquest Destiny,,Tir’gal,,Kuztash,"March 10, 2025 10:08 PM",,Maps and Books by Magi Ellen,,Location,Nightstone Harbor
+Manifest Questiny,,Tir’gal,,Kuztash,"March 10, 2025 10:08 PM",,Adventuring Guild? run by ?,,Location,Nightstone Harbor
+Needle & Thread,,Tir’gal,,Kuztash,"March 10, 2025 10:08 PM",,General Store,,Location,Nightstone Harbor
+Kuztaş Protectorate,,,,,"March 8, 2025 1:45 PM",,,,"Kingdom, Tir'Gal",
+E'deran,,,,,"March 8, 2025 11:49 AM",,,,"Kingdom, Tir'Gal",
+Çölara Gaspina,,,,,"March 8, 2025 11:51 AM",,,,"Kingdom, Tir'Gal",
+Yeşefan,,,,,"March 8, 2025 11:51 AM",,,,"Kingdom, Tir'Gal",
+Balavaughnrei,,,,,"March 8, 2025 12:14 PM",,,,"Kingdom, Tir'Gal",
+Purrinvor,,,,,"March 8, 2025 12:13 PM",,,,"Kingdom, Tir'Gal",
+Bug Attack,,,,,"March 8, 2025 1:09 PM",,,,Dungeon/Encounter,Nightstone Harbor
+Volcano Entrance,,,,,"March 8, 2025 1:09 PM",,,,Dungeon/Encounter,Nightstone Harbor
+Fuat’s Forge,,Tir’gal,,Kuztash,"March 10, 2025 10:08 PM",,,,Location,Nightstone Harbor
+Twilight Palace,,Tir’gal,,Kuztash,"March 10, 2025 10:08 PM",,,,Location,Nightstone Harbor
+Temple of stone and earth,,Tir’gal,,Kuztash,"March 10, 2025 10:08 PM",,,,Location,Nightstone Harbor
+Dougal Leafwhistle,,Tir’gal,,Kuztash,"March 10, 2025 10:00 PM",,,,NPC,Nightstone Harbor
+Yol Merkez,,Tir’gal,,,"March 10, 2025 9:45 PM",,Merchant stop in Kuztas,,"Kuztas, Town",
+Altan Deepvein,,Tir’gal,,"Kuztash, Purrivor","March 10, 2025 10:11 PM",,"Dwarf, M, 60s",,NPC,Nightstone Harbor
+"Still Nomad, The",,Tir’gal,,Kuztash,"March 11, 2025 11:19 PM",,"Tavern and inn ",,Location,Nightstone Harbor
+Alabaster Pearl Heist,,Biamer,,Salindash,"March 22, 2025 7:22 AM",,,Alabaster Pearl,"Alabaster Pearl, Dungeon/Encounter",Port Stillwater
+Keeper’s Dungeon,,Vantill,,,"March 22, 2025 7:37 AM",,,,Dungeon/Encounter,Vantill
+Light House,,Brandy Isles,,Brandy Isles,"April 5, 2025 10:50 AM",,,,Dungeon/Encounter,Zhara
+City Chase - New Corinth,,Biamer,,Salindash,"April 16, 2025 5:35 PM",,,,Dungeon/Encounter,New Corinth
+Zeyril Duskglen,,Biamer,,Artok,"August 11, 2025 2:30 PM",,,"Giddyup Trust, Warriors of Light",NPC,
+Gorrim Breaksky,,Biamer,,Ashtengil,"May 11, 2025 8:32 AM",,,Giddyup Trust,NPC,Fellsmouth
+Robe of the Voidlight Veil,,,,,"May 11, 2025 10:08 AM",,,,Item,
+Council Members,,Biamer,,Ashtengil,"July 27, 2025 7:28 AM",,,Council,NPC,Fellsmouth
+Mireza Volenyek,,Biamer,,Ashtengil,"August 23, 2025 7:18 AM",,"Female Blue Tiefling, late 20s",,NPC,Fellsmouth
+Gauntlets of Ogre Power,Attuned,,Dierro,,"February 1, 2026 12:34 PM",,,,Item,
+Immolating Arrows,Consumable,,Dierro,,"July 5, 2025 8:16 PM",,,,Item,
+Ring of Mind Shielding,Not attuned,,Bag of Holding,,"July 5, 2025 8:50 PM",,,,Item,
+Bag of Holding,Not required,,Flint,,"July 5, 2025 8:15 PM",,,,Item,
+Sending Stones,Not required,,Felix,,"July 5, 2025 7:57 PM",,,,Item,
+Pipe of Speak with Dead,Not required,,Felix,,"July 5, 2025 7:58 PM",,,,Item,
+Cornerstone Shield,Attuned,,Tavion,,"July 5, 2025 8:15 PM",,,,Item,
+Bottled Fog,Consumed,,Bag of Holding,,"July 5, 2025 8:10 PM",,,,Item,
+Gordash’s Wardstone,Attuned,,Flint,,"July 20, 2025 9:42 AM",,,,Item,
+Stone of Caustic Infusion,Attuned,Biamer,Tavion,Ashtengil,"July 20, 2025 9:37 AM",,,,Item,Ambersil
+,,,,,"July 5, 2025 7:43 AM",,,,Item,
+Pipe of Remembrance,Not required,,Bag of Holding,,"July 5, 2025 8:50 PM",,,,Item,
+Cracked Driftglobe,Not required,,Felix,,"July 5, 2025 8:01 PM",,,,Item,
+Wind fan,Not required,,Bag of Holding,,"July 5, 2025 8:12 PM",,,,Item,
+Mask of disguise,Attuned,,Felix,,"July 5, 2025 8:15 PM",,,,Item,
+Barkskin Tattoo,Attuned,,Felix,,"July 20, 2025 9:38 AM",,,,Item,
+Manacles of Disruption,Not required,,Flint,,"July 5, 2025 8:40 PM",,,,Item,
+Velvet Tusk (WIP),,Biamer,,Ashtengil,"August 23, 2025 10:36 PM",,,,Dungeon/Encounter,Fellsmouth
+Desh Harbor,,Biamer,,Salindash,"August 21, 2025 9:34 PM",,,,"Salindash, Town",
+Tagga,,Vantill,,Garrenbek,"August 23, 2025 6:57 AM",,,,NPC,
+Braak,,,,Garrenbek,"August 22, 2025 10:54 PM",,,,NPC,
+Ugarth Longtusk,,,,Garrenbek,"August 23, 2025 7:04 AM",,,,NPC,
+Dench,,,,Garrenbek,"August 23, 2025 7:05 AM",,,,NPC,
+Hogar,,,,Garrenbek,"August 23, 2025 7:04 AM",,,,NPC,
+Gambling with Vosk,,,,,"January 15, 2026 9:41 PM",,,,Dungeon/Encounter,Fellsmouth
+Circlet of Elusive Illusions,,,,,"September 9, 2025 8:09 PM",,,,Item,
+Flavius Mirage,,,,,"January 20, 2026 5:42 PM",0,,,Spell,
+Glacial Edge,,,,,"January 31, 2026 8:17 PM",,,,Item,
+Battlefield Encounter,,,,,"October 5, 2025 4:33 PM",,,,Dungeon/Encounter,
+Shadow Binding,,,,,"February 2, 2026 7:38 PM",2,,,Spell,
+Oni,,,,,"December 1, 2025 10:13 PM",,,,Villain,
+Darkbolt,,,,,"January 20, 2026 5:42 PM",3,,,Spell,
+Shadow Well,,,,,"January 20, 2026 5:43 PM",4,,,Spell,
+Shadow Cache,,,,,"January 20, 2026 5:43 PM",4,,,Spell,
+Shield Mastery: Vanguard,,,,,"January 25, 2026 10:49 AM",,,,Feat,
+Dual Wielder Reforged,,,,,"January 21, 2026 8:47 PM",,,,Feat,
+Shield Mastery: Breaker,,,,,"January 25, 2026 9:37 AM",,,,Feat,
+Shield Master: Fence,,,,,"January 25, 2026 11:05 AM",,,,Feat,
+Duelist - Offensive,,,,,"January 27, 2026 7:34 PM",,,,Feat,
+Duelist - Control,,,,,"January 27, 2026 7:35 PM",,,,Feat,
+Shadow Routes,Feature,,Flint,,"February 2, 2026 7:29 PM",,,,Item,
+Smuggler’s Pull,Feature,,Flint,,"February 2, 2026 7:28 PM",,,,Item,
+Benediction of So’car,Feature,,Tavion,,"February 2, 2026 7:31 PM",,,,Item,
+Voice of Hope,Feature,,Tavion,,"February 2, 2026 7:32 PM",,,,Item,
+Scroll of Death Armor,Consumable,,Felix,,"February 3, 2026 9:34 AM",,,,Item,
